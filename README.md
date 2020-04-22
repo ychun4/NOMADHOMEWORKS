@@ -1,2 +1,0 @@
-# NOMADHOMEWORKS
-Created with CodeSandbox
